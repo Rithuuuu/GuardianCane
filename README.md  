@@ -1,0 +1,19 @@
+Hello there!
+
+This is a simulation of a smart cane project that me and my team developed. It was designed to help elders and those who are disabled navigate with more ease and confidence thereby improving quality of life and autonomy.
+
+We have used:
+1. Ultrasonic sensor
+2. Light sensor
+3. OLEd display
+4. DHT22 sensor
+5. Breadboards
+6. Arduino uno
+7. Wires
+8. Buzzer
+9. Button
+10. LED
+
+To develop it on wokwi. The original prototype will use a haptic based feedback system which was not available on wokwi. Hence, the use of buzzer and led to simulate the feedback mechanism.
+
+Thankyou!!!
